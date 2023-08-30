@@ -1,0 +1,51 @@
+*{
+    letter-spacing: 1px;
+}
+.line{
+    letter-spacing: 1px;
+    height: 2400px;
+    width: 400px;
+    background-color: purple ;
+}
+.line img{
+    margin-top:70px ;
+    margin-left: 130px;
+    
+}
+.info{
+    color: white;
+    padding-top: 230px;
+    margin-left: 30px;
+    font-family: Arial ;
+    align-self: auto;
+    align-items: flex-start;
+    align-content: last baseline;
+}
+.info h2{
+    color: yellow;
+}
+.info label{
+    color: black;
+    
+}
+.line a{
+    color: white;
+    transition: 0.4s ease-in-out;
+
+}
+.line a:hover{
+    color: rgb(115, 255, 0);
+}
+.line a:visited{
+    color: rgb(9, 0, 128);
+}
+.ex{
+    position: absolute; 
+    left: 500px;
+    top: 20px;
+ color: black;   
+}
+.ex h1{
+    font-size: 50px;
+    letter-spacing: 3px;
+}
